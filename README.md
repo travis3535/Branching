@@ -12,3 +12,4 @@
 * 'git branch' - Show branches, current branch
 * 'git branch branchName' - Create branch 'branchName'
 * 'git checkout branchName' - Check out the branch
+* 'git remote add origin URL' - Connect local repo to remote URL
